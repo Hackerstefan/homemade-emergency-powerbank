@@ -26,7 +26,7 @@ Steps☢️:
 
 You can find of me making this from scratch here:
 <a href="https://youtu.be/voAUmzkh7Rs" target="_blank">
-  <img src="https://via.placeholder.com/600x338/1e1e1e/FF0000?text=▶️+Video+Preview" 
+  <img src="https://img.youtube.com/vi/voAUmzkh7Rs/0.jpg" 
        alt="Video Thumbnail" 
        style="width:100%; max-width:600px; border-radius:8px;">
   <p align="center" style="margin-top:-40px; font-size:48px;">▶️</p>
