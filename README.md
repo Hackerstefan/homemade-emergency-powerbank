@@ -9,7 +9,9 @@ Parts👻:
 
 Links💰:
 car charger socket -> https://www.aliexpress.com/item/1005011637020864.html
+
 9V battery -> https://www.aliexpress.com/item/1005010760174326.html
+
 wooden sticks -> https://www.aliexpress.com/item/1005008688421840.html
 
 Steps☢️:
