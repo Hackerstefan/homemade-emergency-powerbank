@@ -1,5 +1,5 @@
 # homemade-emergency-powerbank
-I made an emergency powebank out of wooden sticks, a car charger socket and a 9V battery
+I made an emergency powerbank out of wooden sticks, a car charger socket and a 9V battery
 
 Parts👻:
 1. Wooden sticks
